@@ -1,4 +1,4 @@
-require "rspec"
+årequire "rspec"
 require_relative "day2.rb"
 require "pry"
 
